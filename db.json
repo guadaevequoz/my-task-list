@@ -17,6 +17,18 @@
       "text": "Leer libro de patrones",
       "day": "Mayo 3 a las 19:00",
       "reminder": false
+    },
+    {
+      "text": "Completar calendario",
+      "day": "Marzo 14 a las 23:00",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Hacer gol",
+      "day": "Marzo 14 a las 22:30",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
