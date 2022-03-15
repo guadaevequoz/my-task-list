@@ -4,23 +4,17 @@
       "id": 1,
       "text": "Terminar primer modulo de Angular",
       "day": "Abril 3 a las 12:00",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
       "text": "Terminar tarea de redes",
       "day": "Abril 10 a las 12:00",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
       "text": "Leer libro de patrones",
-      "day": "Mayo 3 a las 19:00",
-      "reminder": false
-    },
-    {
-      "id": 4,
-      "text": "Leer libro",
       "day": "Mayo 3 a las 19:00",
       "reminder": false
     }
